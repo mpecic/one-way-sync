@@ -14,5 +14,5 @@ Script doesn't actually do anything, only outputs linux shell commands.
 
 Usage:
 ```
- sync.sh [src] [dest]
+ sync.sh [src] [dst]
 ```
